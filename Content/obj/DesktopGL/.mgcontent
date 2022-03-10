@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Fonts/GameText.spritefont</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/Background.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/Cannon.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/EndGameLoss.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/EndGameWin.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/Line.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/LogoPlay.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/MainMenu.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/PBEAR.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/PoleLeft.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/PoleRigth.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/ScoreBoard.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/Sprite.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/SpriteBear.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Images/Troby.png</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/Background.mp3</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/Bomb.mp3</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/BreakBall.wav</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/CannonSound.wav</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/ChangeBall.wav</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/GameOver.wav</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/GameWin.wav</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/MainMenu.mp3</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/Porntera.mp3</File>
+    <File>C:/Users/tumpa/Desktop/Work/MidGame/Bubblepuz/Bubblepuz/Content/Song/ShootSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

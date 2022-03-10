@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Wdc7CovTDUw0P2gxrmbUCfhbA4rGK5z6aiK9XfyqzID5WuQNAHe0IeMSDvzorwLz4cLSwB6pGe9QiGjjO6/lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nove0\\Desktop\\Game\\done\\MidGame\\Bubblepuz\\Bubblepuz\\Bubblepuz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nove0\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\nove0\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
